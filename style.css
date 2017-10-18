@@ -1,0 +1,90 @@
+/*RESET STYLE*/
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #eeeeee;
+    font-family: sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: #222222;
+}
+/*RESET STYLE*/
+
+main {
+/*    border: 1px solid red;*/
+  width: 650px ;
+  margin-left: auto ;
+  margin-right: auto ;
+}
+
+h1 {
+    text-transform: uppercase;
+    font-family: 'Open Sans', sans-serif; 
+    font-weight:800;
+    text-align: center;
+}
+
+h2 {
+    font-family: 'Open Sans', sans-serif; 
+    font-weight:300;
+    text-align: center;
+}
+
+
+video {
+/*    border: 1px solid red;*/
+    margin:auto;
+    height:20em;
+    position: absolute;
+    z-index:-10;
+}
+
+button{
+    float:left;
+    margin-top:0;
+    padding:1em;
+    margin-left:1em;
+}
+
+#input {
+/*    border: 1px solid red;*/
+    margin:auto;
+    float:left;
+}
+
+#input li {
+    font-weight: 800;
+    font-family: 'Open Sans', sans-serif;   
+    display: inline-block;
+    border: 0.1em solid black;
+    padding: 0.5em 1em 0.5em 1em;
+    width: 3em;
+    height: 1.2em;
+    text-align: center;  
+}
+
+#options{
+    clear:both;
+    margin-left: auto ;
+    margin-right: auto ;
+
+}
+
+#options li {
+    font-weight: 800;
+    font-family: 'Open Sans', sans-serif; 
+    margin-top:0.5em;
+    display: inline-block;
+    border: 0.1em solid black;
+    padding: 0.5em 1em 0.5em 1em;
+    width: 3em;
+    height: 1.2em;
+    text-align: center
+}
+
+ul li {
+margin-left:1em;
+}
